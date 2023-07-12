@@ -2,98 +2,21 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
 
-# Focus on writing good documentation
-{: .fs-9 }
+## 形式语义学的汉语研究与形式语义学理论创新
+### 2022年度国家社科基金重大项目（批准号：22&ZD295）
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+本课题运用形式语义学和逻辑语义学的分析工具，以现代汉语语义现象为研究对象，对汉语名词域、事件域、情态与指示系统、量化和条件结构、话题焦点信息结构和否定现象作分门别类的详细研究。
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+### 项目目标
 
----
+- 本课题以期建立**完整的形式语义学及汉语研究资料库**。潘海华教授团队将基于目前国内尚未有对形式语义学及其汉语研究进行综述性的完整的研究总结，此项目编纂形式语义学研究综述将填补这一空白，并对语义学不同重要议题，包括修饰语/副词性量化、名词短语语义、 事件语义学、可能世界语义学等进行分门别类的总结评价，并且编撰成书，供境内外的同行参考，积极推进国内形式语义学汉语研究的发展。
+- 本课题将**基于汉语事实，对于现有形式语义学理论的解释力和局限性作更系统的梳理和评价**。自从二十世纪七十年代以来，形式语义学就被运用分析不同语言。在此研究项目中，汉语独特的语义现象也会被用来评估已有形式语义学的理论假设和分析框架，并批判性指出现有理论分析的局限性和不足之处， 这将进一步推动形式语义学的理论发展与创新。
+- 基于汉语语义学议题的深入研究，本课题以期**构建更完善更具解释力的语义学理论框架。汉语特有的语义现象以及现有语义研究的不足之处，是填补现有形式语义学理论空缺、达到形式语义学汉语研究理论创新的重要组成部分**。汉语名词短语、量化成分、条件结构和否定极项的语义既是形式语义学关注的重点，也都有亟待解决的难题。本课题的目标是解决这些主要议题中留存的难题，构建更完善更具解释力的语义学理论框架，并在这一过程中**修订**、**验证**甚至**颠覆**现有西方形式语义学理论， 触及现有汉语语义研究的基本原则，对境内的汉语语义研究产生长远影响。
 
-{: .warning }
-> This website documents the features of the current `main` branch of the Just the Docs theme. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
+### 项目创新点
 
-Just the Docs is a theme for generating static websites with [Jekyll]. You can write source files for your web pages using [Markdown], the [Liquid] templating language, and HTML.[^1] Jekyll builds your site by converting all files that have [front matter] to HTML. Your [Jekyll configuration] file determines which theme to use, and sets general parameters for your site, such as the URL of its home page.
-
-Jekyll builds this Just the Docs theme docs website using the theme itself. These web pages show how your web pages will look *by default* when you use this theme. But you can easily *[customize]* the theme to make them look completely different!
-
-Browse the docs to learn more about how to use this theme.
-
-## Getting started
-
-The [Just the Docs Template] provides the simplest, quickest, and easiest way to create a new website that uses the Just the Docs theme. To get started with creating a site, just click "[use the template]"!
-
-{: .note }
-To use the theme, you do ***not*** need to clone or fork the [Just the Docs repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs.
-
-You can easily set the site created by the template to be published on [GitHub Pages] – the [template README] file explains how to do that, along with other details.
-
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^2] And you will be able to deploy your local build to a different platform than GitHub Pages.
-
-More specifically, the created site:
-
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
-
-Other than that, you're free to customize sites that you create with the template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-{: .note }
-See the theme [README][Just the Docs README] for how to use the theme as a gem without creating a new site.
-
-## About the project
-
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
-
-#### Thank you to the contributors of Just the Docs!
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"></a>
-  </li>
-{% endfor %}
-</ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
-
-----
-
-[^1]: The [source file for this page] uses all three markup languages.
-
-[^2]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Jekyll]: https://jekyllrb.com
-[Markdown]: https://daringfireball.net/projects/markdown/
-[Liquid]: https://github.com/Shopify/liquid/wiki
-[Front matter]: https://jekyllrb.com/docs/front-matter/
-[Jekyll configuration]: https://jekyllrb.com/docs/configuration/
-[source file for this page]: https://github.com/just-the-docs/just-the-docs/blob/main/index.md
-[Just the Docs Template]: https://just-the-docs.github.io/just-the-docs-template/
-[Just the Docs]: https://just-the-docs.com
-[Just the Docs repo]: https://github.com/just-the-docs/just-the-docs
-[Just the Docs README]: https://github.com/just-the-docs/just-the-docs/blob/main/README.md
-[GitHub Pages]: https://pages.github.com/
-[Template README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[customize]: {% link docs/customization.md %}
-[use the template]: https://github.com/just-the-docs/just-the-docs-template/generate
+- **课题选题创新**：本课题的五个子课题**将搜集现有的西方形式语义学理论没有照顾到的、与印欧语差别比较大的汉语特有语义现象，以此切入点，以对现有西方形式语义理论进行修正、革新为目标而进行深入研究，力求取得重大突破**。另一方面，本课题选取的汉语名词短语、限定性/副词量化、否定与极项、情态与索引词指称系统、特定内涵副词以及汉语独特的焦点话题结构这几个语义现象，既关涉形式语义学研究的重点内容（包括量化理论、事件语义学、内涵语义学），**也是汉语语义研究需要填补的漏洞和空白**。
+- **研究方法和分析手段的创新**：借用形式语义学的跨学科方法论来研究汉语语义现象，力求在方法论方面也有所突破。通过**大量语料**总结出来的一些语义学观察可以用形式语义学中的相应测试去进一步论证，证明这些观察的可靠性。当涉及语义不同的范畴，比如预设义、断言义与语用蕴含义，**相应的系统的语义测试**可以帮助验证母语者的语感。也需要**通过心理语言学的在线与离线实验、眼动仪实验、脑电图实验等方式，为形式语义/语用学提供独立的证据**。  
