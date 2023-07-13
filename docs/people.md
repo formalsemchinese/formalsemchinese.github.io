@@ -2,6 +2,7 @@
 layout: default
 title: 学者团队
 permalink: /people/
+nav_order: 2
 ---
 
 ## 学者团队
