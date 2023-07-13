@@ -13,11 +13,11 @@ nav_order: 1
 
 ### 参考文献
 
-#### 名词性短语语义问题相关文献
+##### 名词性短语语义问题相关文献
 
-##### 光杆名词的语义
-##### 数词和复数的语义
-##### 指称的语义
-##### PhD dissertations and monographs on NPs in general
+###### 光杆名词的语义
+###### 数词和复数的语义
+###### 指称的语义
+###### PhD dissertations and monographs on NPs in general
 
-#### 事件域相关文献
+##### 事件域相关文献
