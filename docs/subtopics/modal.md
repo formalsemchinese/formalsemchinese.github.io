@@ -11,4 +11,4 @@ nav_order: 2
 - 湖南大学 外国语学院 教授
 - 研究领域：形式语义学、语用学、语言逻辑
 
-#### [点击查看参考文献](https://formalsemchinese.github.io/references-modal/)
+#### [点击查看参考文献](https://formalsemchinese.com/references-modal/)
