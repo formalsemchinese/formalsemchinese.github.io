@@ -16,7 +16,7 @@
 title: 汉语形式语义研究
 description: 形式语义学的汉语研究与形式语义学理论创新
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://formalsemchinese.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://formalsemchinese.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: formalsemchinese/formalsemchinese.github.io # for github-metadata
 
 permalink: pretty
