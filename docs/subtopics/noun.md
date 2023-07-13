@@ -13,5 +13,11 @@ nav_order: 1
 
 ### 参考文献
 
-##### Cheng, L.-S. L, and Sybesma, R. 1998. Yi-wangtang, yi-getang: classifiers and massifiers. 	Tsing-Hua Journal of Chinese Studies, New Series XXVIII 3, 385-412.
-##### Cheng, Lai-Shen Lisa, and Rint Sybesma. 1999. Bare and not-so-bare nouns and the structure of 	NP. Linguistic Inquiry, 30(4): 509-542.
+#### 名词性短语语义问题相关文献
+
+##### 光杆名词的语义
+##### 数词和复数的语义
+##### 指称的语义
+##### PhD dissertations and monographs on NPs in general
+
+#### 事件域相关文献
