@@ -11,5 +11,5 @@ nav_order: 1
 - 浙江大学 文学院 教授
 - 研究领域：形式语义学、汉语方言语法
 
-#### [点击查看参考文献](https://formalsemchinese.com/references-noun/)
+#### [点击查看参考文献](https://formalsemchinese.github.io/references-noun/)
 
