@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: 课题介绍
 nav_order: 1
 permalink: /
 ---
