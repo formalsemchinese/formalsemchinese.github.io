@@ -2,7 +2,6 @@
 layout: default
 title: 参考文献：名词域和事件域的语义组构
 parent: 参考文献
-nav_exclude: true
 permalink: /references-noun/
 ---
 
