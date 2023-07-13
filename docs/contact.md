@@ -7,4 +7,4 @@ nav_order: 99
 
 ## 联系我们
 
-- Email: formalsemchinese@outlook.com
+- Email: [formalsemchinese@outlook.com](mailto:formalsemchinese@outlook.com)
