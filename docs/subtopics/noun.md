@@ -11,13 +11,5 @@ nav_order: 1
 - 浙江大学 文学院 教授
 - 研究领域：形式语义学、汉语方言语法
 
-### 参考文献
+#### [点击查看参考文献](https://formalsemchinese.com/references-noun/)
 
-##### 名词性短语语义问题相关文献
-
-###### 光杆名词的语义
-###### 数词和复数的语义
-###### 指称的语义
-###### PhD dissertations and monographs on NPs in general
-
-##### 事件域相关文献
