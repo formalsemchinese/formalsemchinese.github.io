@@ -7,4 +7,8 @@ nav_order: 2
 
 ## 汉语情态与指示系统研究
 
-TODO
+### 子课题负责人：[王莹莹教授](https://grzy.hnu.edu.cn/site/index/wangyingying)
+- 湖南大学 外国语学院 教授
+- 研究领域：形式语义学、语用学、语言逻辑
+
+#### [点击查看参考文献](https://formalsemchinese.github.io/references-modal/)
