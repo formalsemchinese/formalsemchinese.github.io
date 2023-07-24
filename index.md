@@ -14,4 +14,4 @@ permalink: /
 ![](../../assets/images/frame.png)
 
 ### 责任单位
-![](../../assets/images/cuhk-shenzhen-institute-logo.png =250x)
+![](../../assets/images/cuhk-shenzhen-institute-logo.png)
