@@ -8,8 +8,8 @@ permalink: /subtopics/quantification/
 
 ## 汉语中的量化与条件关系研究
 
-### 子课题负责人：[李行德教授](http://ling.cuhk.edu.hk/p_thomas.php)
-- 香港中文大学 语言学与现代语言系 荣休教授
-- 研究领域：语言习得、句法语义、形式语义学
+### 子课题负责人：[蒋严教授](https://www.soas.ac.uk/about/yan-jiang)
+- 伦敦大学亚非学院 语言、文化与语言学学院 教授
+- 研究领域：形式语义学、形式语用学
 
 #### [点击查看参考文献](https://formalsemchinese.com/references-quantification/)
