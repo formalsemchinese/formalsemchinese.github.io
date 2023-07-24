@@ -14,4 +14,4 @@ permalink: /
 ![](../../assets/images/frame.png)
 
 ### 责任单位
-<img src="https://github.com/formalsemchinese/formalsemchinese.github.io/blob/main/assets/images/cuhk-shenzhen-institute-logo.png" alt="" width="300"/>
+![](../../assets/images/cuhk-shenzhen-institute-logo.png)
