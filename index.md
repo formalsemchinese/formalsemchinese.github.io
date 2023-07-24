@@ -13,5 +13,4 @@ permalink: /
 本课题的框架结构如下:
 ![](../../assets/images/frame.png)
 
-### 责任单位
-<a href="url"><img src="https://github.com/formalsemchinese/formalsemchinese.github.io/blob/main/assets/images/cuhk-shenzhen-institute-logo.png" width=35% height=35%></a>
+### 责任单位：[香港中文大学深圳研究院](https://www.cuhkri.org.cn/)
